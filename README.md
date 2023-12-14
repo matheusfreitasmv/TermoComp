@@ -1,1 +1,1 @@
-# Trabalho final da matéria Fluidos e Termodinamica Computacional
+# Trabalho final da matéria Fluidos e Termodinâmica Computacional
